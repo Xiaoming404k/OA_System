@@ -1,0 +1,17 @@
+Index: src/com/yc/oa/Menu.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>GBK
+===================================================================
+diff --git a/src/com/yc/oa/Menu.java b/src/com/yc/oa/Menu.java
+--- a/src/com/yc/oa/Menu.java	(date 1681892924048)
++++ b/src/com/yc/oa/Menu.java	(date 1681892924048)
+@@ -15,7 +15,7 @@
+ 			}
+ 			System.out.println(s);
+ 		}
+-		System.out.println("--------------------------------------");
++		System.out.println("---------------------------------------");
+ 	}
+ 
+ 	public static void main(String[] args) {
